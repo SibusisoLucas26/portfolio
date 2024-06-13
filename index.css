@@ -1,3 +1,4 @@
+@import "{{ site.theme }}";
 
   .bg-light {
     background-color: #132231 !important;
