@@ -32,8 +32,9 @@ body {
     background-color: #132231 !important;
 }
 
+
 header.jumbotron {
-    background: #121a3766;
+    background: #142331;
     padding: 2rem;
     margin-bottom: 2rem;
 }
@@ -51,6 +52,7 @@ p{
   
   color: aliceblue;
 }
+
 
 footer {
     background: #18232d;

@@ -15,7 +15,9 @@ body{
 .mt-5{
   color:   #a4b0bd;
 }
-
+.card-deck{
+    display: contents;
+}
 .card-deck .card{
     background-color: #20262b91;
 }
